@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/music/beat.wav</SourceFile>
+  <SourceTime>2025-03-12T21:58:57.0756731+01:00</SourceTime>
+  <DestFile>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/bin/DesktopGL/music/beat.xnb</DestFile>
+  <DestTime>2025-03-12T21:59:57.8680501+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/bin/DesktopGL/music/beat.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

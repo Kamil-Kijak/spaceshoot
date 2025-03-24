@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/fonts/main.spritefont</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/music/beat.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/click.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/collect.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/collectitem.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/destroy.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/gameover.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/hit.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/levelup.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/newwave.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/sounds/shoot.wav</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/guiElements/box.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/guiElements/button.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/guiElements/cursor.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/guiElements/progressBarElement.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/guiElements/title.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/enemy.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/exp.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/laserEnemy.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/laserPlayer.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/medkit.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/player.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/shield.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/skull.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/spawnPlace.png</File>
+    <File>C:/Users/Kamil/Desktop/gamesCreation/spaceShooter/Content/textures/objects/star.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
